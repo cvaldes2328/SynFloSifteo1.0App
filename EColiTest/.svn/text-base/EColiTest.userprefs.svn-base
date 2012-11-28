@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EColiTest/EColiTest.cs">
+    <Files>
+      <File FileName="EColiTest/EColiTest.cs" Line="394" Column="28" />
+      <File FileName="EColiTest/Bootstrap.cs" Line="8" Column="3" />
+      <File FileName="EColiTest/EColiTest.cs" Line="394" Column="28" />
+      <File FileName="EColiTest/Bootstrap.cs" Line="8" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,564 @@
+b drip 01
+b drip 02
+b drip 03
+b drip 04
+b drip 05
+b drip 06
+b drip 07
+b drip 08
+b drip 09
+b drip 10
+b drip 11
+b drip 12
+b drip 13
+b drip 14
+b drip 15
+b drip 16
+b Ecoli 01
+b Ecoli 02
+b Ecoli 03
+b Ecoli 04
+b Ecoli 05
+b Ecoli 06
+b Ecoli 07
+b Ecoli 08
+b Ecoli 09
+b Ecoli 10
+b Ecoli 11
+b Ecoli 12
+b Ecoli 13
+b Ecoli 14
+b Ecoli 15
+b Ecoli 16
+b Ecoli 17
+b Ecoli 18
+b Ecoli 19
+b Ecoli 20
+b Ecoli 21
+b Ecoli 22
+b Ecoli 23
+b Ecoli 24
+b Ecoli 25
+b Ecoli 26
+b Ecoli 27
+b Ecoli 28
+b Ecoli travel 01
+b Ecoli travel 02
+b Ecoli travel 03
+b Ecoli travel 04
+b Ecoli travel 05
+b Ecoli travel 06
+b Ecoli travel 07
+b Ecoli travel 08
+b Ecoli travel 09
+b Ecoli travel 10
+b Ecoli travel 11
+b Ecoli travel 12
+b Ecoli travel 13
+b Ecoli travel 14
+b Ecoli travel 15
+b Ecoli travel 16
+b Ecoli travel 17
+b Ecoli travel 18
+b Ecoli travel 19
+b Ecoli travel 20
+b Ecoli travel 21
+b Ecoli travel 22
+b Pdrip 01
+b Pdrip 02
+b Pdrip 03
+b Pdrip 04
+b Pdrip 05
+b Pdrip 06
+b Pdrip 07
+b Pdrip 08
+b Pdrip 09
+b Pdrip 10
+b Pdrip 11
+b Pdrip 12
+b Pdrip 13
+b Pdrip 14
+b Pdrip 15
+b Pdrip 16
+blue color
+by c1 Ecoli travel 01
+by c1 Ecoli travel 02
+by c1 Ecoli travel 03
+by c1 Ecoli travel 04
+by c1 Ecoli travel 05
+by c1 Ecoli travel 06
+by c1 Ecoli travel 07
+by c1 Ecoli travel 08
+by c1 Ecoli travel 09
+by c1 Ecoli travel 10
+by c1 Ecoli travel 11
+by c1 Ecoli travel 12
+by c1 Ecoli travel 13
+by c1 Ecoli travel 14
+by c1 Ecoli travel 15
+by c1 Ecoli travel 16
+by c1 Ecoli travel 17
+by c1 Ecoli travel 18
+by c1 Ecoli travel 19
+by c1 Ecoli travel 20
+by c1 Ecoli travel 21
+by c1 Ecoli travel 22
+by c2 Ecoli travel 01
+by c2 Ecoli travel 02
+by c2 Ecoli travel 03
+by c2 Ecoli travel 04
+by c2 Ecoli travel 05
+by c2 Ecoli travel 06
+by c2 Ecoli travel 07
+by c2 Ecoli travel 08
+by c2 Ecoli travel 09
+by c2 Ecoli travel 10
+by c2 Ecoli travel 11
+by c2 Ecoli travel 12
+by c2 Ecoli travel 13
+by c2 Ecoli travel 14
+by c2 Ecoli travel 15
+by c2 Ecoli travel 16
+by c2 Ecoli travel 17
+by c2 Ecoli travel 18
+by c2 Ecoli travel 19
+by c2 Ecoli travel 20
+by c2 Ecoli travel 21
+by c2 Ecoli travel 22
+plasmid
+r drip 01
+r drip 02
+r drip 03
+r drip 04
+r drip 05
+r drip 06
+r drip 07
+r drip 08
+r drip 09
+r drip 10
+r drip 11
+r drip 12
+r drip 13
+r drip 14
+r drip 15
+r drip 16
+r Ecoli 01
+r Ecoli 02
+r Ecoli 03
+r Ecoli 04
+r Ecoli 05
+r Ecoli 06
+r Ecoli 07
+r Ecoli 08
+r Ecoli 09
+r Ecoli 10
+r Ecoli 11
+r Ecoli 12
+r Ecoli 13
+r Ecoli 14
+r Ecoli 15
+r Ecoli 16
+r Ecoli 17
+r Ecoli 18
+r Ecoli 19
+r Ecoli 20
+r Ecoli 21
+r Ecoli 22
+r Ecoli 23
+r Ecoli 24
+r Ecoli 25
+r Ecoli 26
+r Ecoli 27
+r Ecoli 28
+r Ecoli travel 01
+r Ecoli travel 02
+r Ecoli travel 03
+r Ecoli travel 04
+r Ecoli travel 05
+r Ecoli travel 06
+r Ecoli travel 07
+r Ecoli travel 08
+r Ecoli travel 09
+r Ecoli travel 10
+r Ecoli travel 11
+r Ecoli travel 12
+r Ecoli travel 13
+r Ecoli travel 14
+r Ecoli travel 15
+r Ecoli travel 16
+r Ecoli travel 17
+r Ecoli travel 18
+r Ecoli travel 19
+r Ecoli travel 20
+r Ecoli travel 21
+r Ecoli travel 22
+r Pdrip 01
+r Pdrip 02
+r Pdrip 03
+r Pdrip 04
+r Pdrip 05
+r Pdrip 06
+r Pdrip 07
+r Pdrip 08
+r Pdrip 09
+r Pdrip 10
+r Pdrip 11
+r Pdrip 12
+r Pdrip 13
+r Pdrip 14
+r Pdrip 15
+r Pdrip 16
+rb c1 Ecoli travel 01
+rb c1 Ecoli travel 02
+rb c1 Ecoli travel 03
+rb c1 Ecoli travel 04
+rb c1 Ecoli travel 05
+rb c1 Ecoli travel 06
+rb c1 Ecoli travel 07
+rb c1 Ecoli travel 08
+rb c1 Ecoli travel 09
+rb c1 Ecoli travel 10
+rb c1 Ecoli travel 11
+rb c1 Ecoli travel 12
+rb c1 Ecoli travel 13
+rb c1 Ecoli travel 14
+rb c1 Ecoli travel 15
+rb c1 Ecoli travel 16
+rb c1 Ecoli travel 17
+rb c1 Ecoli travel 18
+rb c1 Ecoli travel 19
+rb c1 Ecoli travel 20
+rb c1 Ecoli travel 21
+rb c1 Ecoli travel 22
+rb c2 Ecoli travel 01
+rb c2 Ecoli travel 02
+rb c2 Ecoli travel 03
+rb c2 Ecoli travel 04
+rb c2 Ecoli travel 05
+rb c2 Ecoli travel 06
+rb c2 Ecoli travel 07
+rb c2 Ecoli travel 08
+rb c2 Ecoli travel 09
+rb c2 Ecoli travel 10
+rb c2 Ecoli travel 11
+rb c2 Ecoli travel 12
+rb c2 Ecoli travel 13
+rb c2 Ecoli travel 14
+rb c2 Ecoli travel 15
+rb c2 Ecoli travel 16
+rb c2 Ecoli travel 17
+rb c2 Ecoli travel 18
+rb c2 Ecoli travel 19
+rb c2 Ecoli travel 20
+rb c2 Ecoli travel 21
+rb c2 Ecoli travel 22
+red color
+ry c1 Ecoli travel 01
+ry c1 Ecoli travel 02
+ry c1 Ecoli travel 03
+ry c1 Ecoli travel 04
+ry c1 Ecoli travel 05
+ry c1 Ecoli travel 06
+ry c1 Ecoli travel 07
+ry c1 Ecoli travel 08
+ry c1 Ecoli travel 09
+ry c1 Ecoli travel 10
+ry c1 Ecoli travel 11
+ry c1 Ecoli travel 12
+ry c1 Ecoli travel 13
+ry c1 Ecoli travel 14
+ry c1 Ecoli travel 15
+ry c1 Ecoli travel 16
+ry c1 Ecoli travel 17
+ry c1 Ecoli travel 18
+ry c1 Ecoli travel 19
+ry c1 Ecoli travel 20
+ry c1 Ecoli travel 21
+ry c1 Ecoli travel 22
+ry c2 Ecoli travel 01
+ry c2 Ecoli travel 02
+ry c2 Ecoli travel 03
+ry c2 Ecoli travel 04
+ry c2 Ecoli travel 05
+ry c2 Ecoli travel 06
+ry c2 Ecoli travel 07
+ry c2 Ecoli travel 08
+ry c2 Ecoli travel 09
+ry c2 Ecoli travel 10
+ry c2 Ecoli travel 11
+ry c2 Ecoli travel 12
+ry c2 Ecoli travel 13
+ry c2 Ecoli travel 14
+ry c2 Ecoli travel 15
+ry c2 Ecoli travel 16
+ry c2 Ecoli travel 17
+ry c2 Ecoli travel 18
+ry c2 Ecoli travel 19
+ry c2 Ecoli travel 20
+ry c2 Ecoli travel 21
+ry c2 Ecoli travel 22
+w Ecoli 01
+w Ecoli 02
+w Ecoli 03
+w Ecoli 04
+w Ecoli 05
+w Ecoli 06
+w Ecoli 07
+w Ecoli 08
+w Ecoli 09
+w Ecoli 10
+w Ecoli 11
+w Ecoli 12
+w Ecoli 13
+w Ecoli 14
+w Ecoli 15
+w Ecoli 16
+w Ecoli 17
+w Ecoli 18
+w Ecoli 19
+w Ecoli 20
+w Ecoli 21
+w Ecoli 22
+w Ecoli 23
+w Ecoli 24
+w Ecoli 25
+w Ecoli 26
+w Ecoli 27
+w Ecoli 28
+w Ecoli travel 01
+w Ecoli travel 02
+w Ecoli travel 03
+w Ecoli travel 04
+w Ecoli travel 05
+w Ecoli travel 06
+w Ecoli travel 07
+w Ecoli travel 08
+w Ecoli travel 09
+w Ecoli travel 10
+w Ecoli travel 11
+w Ecoli travel 12
+w Ecoli travel 13
+w Ecoli travel 14
+w Ecoli travel 15
+w Ecoli travel 16
+w Ecoli travel 17
+w Ecoli travel 18
+w Ecoli travel 19
+w Ecoli travel 20
+w Ecoli travel 21
+w Ecoli travel 22
+wb c1 Ecoli travel 01
+wb c1 Ecoli travel 02
+wb c1 Ecoli travel 03
+wb c1 Ecoli travel 04
+wb c1 Ecoli travel 05
+wb c1 Ecoli travel 06
+wb c1 Ecoli travel 07
+wb c1 Ecoli travel 08
+wb c1 Ecoli travel 09
+wb c1 Ecoli travel 10
+wb c1 Ecoli travel 11
+wb c1 Ecoli travel 12
+wb c1 Ecoli travel 13
+wb c1 Ecoli travel 14
+wb c1 Ecoli travel 15
+wb c1 Ecoli travel 16
+wb c1 Ecoli travel 17
+wb c1 Ecoli travel 18
+wb c1 Ecoli travel 19
+wb c1 Ecoli travel 20
+wb c1 Ecoli travel 21
+wb c1 Ecoli travel 22
+wb c2 Ecoli travel 01
+wb c2 Ecoli travel 02
+wb c2 Ecoli travel 03
+wb c2 Ecoli travel 04
+wb c2 Ecoli travel 05
+wb c2 Ecoli travel 06
+wb c2 Ecoli travel 07
+wb c2 Ecoli travel 08
+wb c2 Ecoli travel 09
+wb c2 Ecoli travel 10
+wb c2 Ecoli travel 11
+wb c2 Ecoli travel 12
+wb c2 Ecoli travel 13
+wb c2 Ecoli travel 14
+wb c2 Ecoli travel 15
+wb c2 Ecoli travel 16
+wb c2 Ecoli travel 17
+wb c2 Ecoli travel 18
+wb c2 Ecoli travel 19
+wb c2 Ecoli travel 20
+wb c2 Ecoli travel 21
+wb c2 Ecoli travel 22
+wr c1 Ecoli travel 01
+wr c1 Ecoli travel 02
+wr c1 Ecoli travel 03
+wr c1 Ecoli travel 04
+wr c1 Ecoli travel 05
+wr c1 Ecoli travel 06
+wr c1 Ecoli travel 07
+wr c1 Ecoli travel 08
+wr c1 Ecoli travel 09
+wr c1 Ecoli travel 10
+wr c1 Ecoli travel 11
+wr c1 Ecoli travel 12
+wr c1 Ecoli travel 13
+wr c1 Ecoli travel 14
+wr c1 Ecoli travel 15
+wr c1 Ecoli travel 16
+wr c1 Ecoli travel 17
+wr c1 Ecoli travel 18
+wr c1 Ecoli travel 19
+wr c1 Ecoli travel 20
+wr c1 Ecoli travel 21
+wr c1 Ecoli travel 22
+wr c2 Ecoli travel 01
+wr c2 Ecoli travel 02
+wr c2 Ecoli travel 03
+wr c2 Ecoli travel 04
+wr c2 Ecoli travel 05
+wr c2 Ecoli travel 06
+wr c2 Ecoli travel 07
+wr c2 Ecoli travel 08
+wr c2 Ecoli travel 09
+wr c2 Ecoli travel 10
+wr c2 Ecoli travel 11
+wr c2 Ecoli travel 12
+wr c2 Ecoli travel 13
+wr c2 Ecoli travel 14
+wr c2 Ecoli travel 15
+wr c2 Ecoli travel 16
+wr c2 Ecoli travel 17
+wr c2 Ecoli travel 18
+wr c2 Ecoli travel 19
+wr c2 Ecoli travel 20
+wr c2 Ecoli travel 21
+wr c2 Ecoli travel 22
+wy c1 Ecoli travel 01
+wy c1 Ecoli travel 02
+wy c1 Ecoli travel 03
+wy c1 Ecoli travel 04
+wy c1 Ecoli travel 05
+wy c1 Ecoli travel 06
+wy c1 Ecoli travel 07
+wy c1 Ecoli travel 08
+wy c1 Ecoli travel 09
+wy c1 Ecoli travel 10
+wy c1 Ecoli travel 11
+wy c1 Ecoli travel 12
+wy c1 Ecoli travel 13
+wy c1 Ecoli travel 14
+wy c1 Ecoli travel 15
+wy c1 Ecoli travel 16
+wy c1 Ecoli travel 17
+wy c1 Ecoli travel 18
+wy c1 Ecoli travel 19
+wy c1 Ecoli travel 20
+wy c1 Ecoli travel 21
+wy c1 Ecoli travel 22
+wy c2 Ecoli travel 01
+wy c2 Ecoli travel 02
+wy c2 Ecoli travel 03
+wy c2 Ecoli travel 04
+wy c2 Ecoli travel 05
+wy c2 Ecoli travel 06
+wy c2 Ecoli travel 07
+wy c2 Ecoli travel 08
+wy c2 Ecoli travel 09
+wy c2 Ecoli travel 10
+wy c2 Ecoli travel 11
+wy c2 Ecoli travel 12
+wy c2 Ecoli travel 13
+wy c2 Ecoli travel 14
+wy c2 Ecoli travel 15
+wy c2 Ecoli travel 16
+wy c2 Ecoli travel 17
+wy c2 Ecoli travel 18
+wy c2 Ecoli travel 19
+wy c2 Ecoli travel 20
+wy c2 Ecoli travel 21
+wy c2 Ecoli travel 22
+y drip 01
+y drip 02
+y drip 03
+y drip 04
+y drip 05
+y drip 06
+y drip 07
+y drip 08
+y drip 09
+y drip 10
+y drip 11
+y drip 12
+y drip 13
+y drip 14
+y drip 15
+y drip 16
+y Ecoli 01
+y Ecoli 02
+y Ecoli 03
+y Ecoli 04
+y Ecoli 05
+y Ecoli 06
+y Ecoli 07
+y Ecoli 08
+y Ecoli 09
+y Ecoli 10
+y Ecoli 11
+y Ecoli 12
+y Ecoli 13
+y Ecoli 14
+y Ecoli 15
+y Ecoli 16
+y Ecoli 17
+y Ecoli 18
+y Ecoli 19
+y Ecoli 20
+y Ecoli 21
+y Ecoli 22
+y Ecoli 23
+y Ecoli 24
+y Ecoli 25
+y Ecoli 26
+y Ecoli 27
+y Ecoli 28
+y Ecoli travel 01
+y Ecoli travel 02
+y Ecoli travel 03
+y Ecoli travel 04
+y Ecoli travel 05
+y Ecoli travel 06
+y Ecoli travel 07
+y Ecoli travel 08
+y Ecoli travel 09
+y Ecoli travel 10
+y Ecoli travel 11
+y Ecoli travel 12
+y Ecoli travel 13
+y Ecoli travel 14
+y Ecoli travel 15
+y Ecoli travel 16
+y Ecoli travel 17
+y Ecoli travel 18
+y Ecoli travel 19
+y Ecoli travel 20
+y Ecoli travel 21
+y Ecoli travel 22
+y Pdrip 01
+y Pdrip 02
+y Pdrip 03
+y Pdrip 04
+y Pdrip 05
+y Pdrip 06
+y Pdrip 07
+y Pdrip 08
+y Pdrip 09
+y Pdrip 10
+y Pdrip 11
+y Pdrip 12
+y Pdrip 13
+y Pdrip 14
+y Pdrip 15
+y Pdrip 16
+yellow color
